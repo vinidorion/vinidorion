@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @vinidorion
-- 👀 I’m interested in videogames
-- 🌱 I’m currently learning python
-- 📫 You can reach me on discord vinidorion#1256
+Hi!
+I'm Vincent
+I'm currently sutudying in computer science at the University of Sherbrooke
